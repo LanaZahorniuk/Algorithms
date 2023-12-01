@@ -4,13 +4,9 @@ public class Main {
     public static void main(String[] args) {
         int a = 2;
         int b = 100;
-        System.out.println("------------- O(n^2) квадратичная сложность ----------------");
-        test(a);
-        System.out.println("--------------- O(n^2) квадратичная сложность --------------");
-        test2(a);
-        System.out.println("------------- O(n log n) ----------------");
-        test3(b);
-        System.out.println("--------------  O(log n) ---------------");
+//        test(a);
+//        test2(a);
+//        test3(b);
         test4(b);
     }
 
