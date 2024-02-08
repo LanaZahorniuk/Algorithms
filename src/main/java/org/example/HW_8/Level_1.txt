@@ -1,0 +1,12 @@
+Level 1:
+
+Приведите несколько примеров применения хеш-функций в реальной жизни.
+
+* Хранение паролей
+* Проверки целостности данных в системах хранения, передачи или обмена файлами (Digital Integrity Verification)
+* Цифровые подписи
+
+Создайте ключ RSA и скиньте его в открытом виде:
+
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkKihALXTVbkyiw9u6ue+bFpvSn1gdWPvVHfOOj8N86iNETbehWCfqA2QMQT6uBEPLO72Ab8jdq8aKdFP4VbA+EqzRcecIpTVb13Jdm6VlhsuSBLXfKhuJrqhiDDZjLVJ4YmYa3rSB4dqbPHTtQpf92wdN/IkWkouUvBT6EMo8cY/owKwrF9CRxDPhpeUOLr71KgCMXD3Qns9xjH8lOvorWn2sOE0rAH+YOj4nCr+8/4wKKKBiyVfCfBrORVUMX9I47AYN3U6i7LE8/F8k3SpYoxHG9izzcOqfML5NhhaS3cDJADaAIVjPMy4H7Fg8/CpKeTXbWMCPHPthgDXDhT/+wIDAQAB
+
